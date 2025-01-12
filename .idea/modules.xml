@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/01_static_member/01_opposite_number/01_opposite_number.iml" filepath="$PROJECT_DIR$/01_static_member/01_opposite_number/01_opposite_number.iml" />
       <module fileurl="file://$PROJECT_DIR$/01_static_member/01_static_member.iml" filepath="$PROJECT_DIR$/01_static_member/01_static_member.iml" />
       <module fileurl="file://$PROJECT_DIR$/01_static_member/02_square_number/02_square_number.iml" filepath="$PROJECT_DIR$/01_static_member/02_square_number/02_square_number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_static_member/03_climb_stairs/03_climb_stairs.iml" filepath="$PROJECT_DIR$/01_static_member/03_climb_stairs/03_climb_stairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_practice.iml" filepath="$PROJECT_DIR$/OOP_practice.iml" />
     </modules>
   </component>
