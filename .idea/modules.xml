@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01_static_member/01_opposite_number/01_opposite_number.iml" filepath="$PROJECT_DIR$/01_static_member/01_opposite_number/01_opposite_number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_dynamic_member/01_rectangle/01_rectangle.iml" filepath="$PROJECT_DIR$/02_dynamic_member/01_rectangle/01_rectangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/01_static_member/01_static_member.iml" filepath="$PROJECT_DIR$/01_static_member/01_static_member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_dynamic_member/02_dynamic_member.iml" filepath="$PROJECT_DIR$/02_dynamic_member/02_dynamic_member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_dynamic_member/02_exam_ranking/02_exam_ranking.iml" filepath="$PROJECT_DIR$/02_dynamic_member/02_exam_ranking/02_exam_ranking.iml" />
       <module fileurl="file://$PROJECT_DIR$/01_static_member/02_square_number/02_square_number.iml" filepath="$PROJECT_DIR$/01_static_member/02_square_number/02_square_number.iml" />
       <module fileurl="file://$PROJECT_DIR$/01_static_member/03_climb_stairs/03_climb_stairs.iml" filepath="$PROJECT_DIR$/01_static_member/03_climb_stairs/03_climb_stairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_practice.iml" filepath="$PROJECT_DIR$/OOP_practice.iml" />
