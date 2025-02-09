@@ -1,0 +1,27 @@
+Turn 1:
+Anduin cast MindBlast
+Uther hp -4 -> 26
+Anduin cast MindBlast
+Uther hp -4 -> 22
+Anduin cast MindBlast
+Uther hp -4 -> 18
+Anduin cast MindBlast
+Uther hp -4 -> 14
+Anduin cast MindBlast
+Uther hp -4 -> 10
+Turn 2:
+Uther cast SealOfLight
+Anduin hp -1 -> 29
+Uther hp +3 -> 13
+Turn 3:
+Anduin cast MindBlast
+Uther hp -4 -> 9
+Anduin cast MindBlast
+Uther hp -4 -> 5
+Anduin cast MindBlast
+Uther hp -4 -> 1
+Anduin cast MindBlast
+Uther hp -4 -> -3
+GAME ENDED
+Anduin: 29 hp
+Uther: -3 hp

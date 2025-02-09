@@ -1,0 +1,15 @@
+Turn 1:
+Anduin cast HolyLight
+Anduin cast MindBlast
+Uther hp -4 -> 26
+Anduin cast HolyLight
+Turn 2:
+Uther cast SealOfLight
+Anduin hp -1 -> 29
+Uther hp +3 -> 29
+Uther cast SealOfLight
+Anduin hp -1 -> 28
+Uther hp +1 -> 30
+GAME ENDED
+Anduin: 28 hp
+Uther: 30 hp
