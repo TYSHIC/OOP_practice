@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/03_polymorphism/01_duel_1/01_duel_1.iml" filepath="$PROJECT_DIR$/03_polymorphism/01_duel_1/01_duel_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03_polymorphism/01_duel_1/01_duel_1_ans/01_duel_1_ans.iml" filepath="$PROJECT_DIR$/03_polymorphism/01_duel_1/01_duel_1_ans/01_duel_1_ans.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03_polymorphism/01_duel_1/01_duel_1_base/01_duel_1_base.iml" filepath="$PROJECT_DIR$/03_polymorphism/01_duel_1/01_duel_1_base/01_duel_1_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_polymorphism/01_duel/01_duel.iml" filepath="$PROJECT_DIR$/03_polymorphism/01_duel/01_duel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_polymorphism/01_duel/01_duel_ans/01_duel_ans.iml" filepath="$PROJECT_DIR$/03_polymorphism/01_duel/01_duel_ans/01_duel_ans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_polymorphism/01_duel/01_duel_base/01_duel_base.iml" filepath="$PROJECT_DIR$/03_polymorphism/01_duel/01_duel_base/01_duel_base.iml" />
       <module fileurl="file://$PROJECT_DIR$/01_static_member/01_opposite_number/01_opposite_number.iml" filepath="$PROJECT_DIR$/01_static_member/01_opposite_number/01_opposite_number.iml" />
       <module fileurl="file://$PROJECT_DIR$/02_dynamic_member/01_rectangle/01_rectangle.iml" filepath="$PROJECT_DIR$/02_dynamic_member/01_rectangle/01_rectangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/01_static_member/01_static_member.iml" filepath="$PROJECT_DIR$/01_static_member/01_static_member.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03_polymorphism/02_duel_2/02_duel_2.iml" filepath="$PROJECT_DIR$/03_polymorphism/02_duel_2/02_duel_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/02_dynamic_member/02_dynamic_member.iml" filepath="$PROJECT_DIR$/02_dynamic_member/02_dynamic_member.iml" />
       <module fileurl="file://$PROJECT_DIR$/02_dynamic_member/02_exam_ranking/02_exam_ranking.iml" filepath="$PROJECT_DIR$/02_dynamic_member/02_exam_ranking/02_exam_ranking.iml" />
       <module fileurl="file://$PROJECT_DIR$/01_static_member/02_square_number/02_square_number.iml" filepath="$PROJECT_DIR$/01_static_member/02_square_number/02_square_number.iml" />
