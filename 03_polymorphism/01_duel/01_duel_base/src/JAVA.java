@@ -58,17 +58,28 @@ public class JAVA {
                 int s = scanner.nextInt(); // 獲取欲施放的法術編號
                 if (turn % 2 == 1) anduin.castSpell(s, uther);
                 else uther.castSpell(s, anduin);
+                if (anduin.hp <= 0 || uther.hp <= 0) {
+                    endGame(anduin, uther);
+                    return;
+                }
             }
             turn++;
         }
+        endGame(anduin, uther);
+    }
 
+    static void endGame(Anduin anduin, Uther uther) {
+        System.out.println("GAME ENDED");
+        System.out.println("Anduin: " + anduin.hp + " hp");
+        System.out.println("Uther: " + uther.hp + " hp");
     }
 }
 
-// 角色抽象類別
 abstract class Character {
-    // 施放法術，第一個參數代表要欲施放的法術編號，第二個參數代表對手。
-    void castSpell(int n, Character opponent) {
+    int hp = 30;
 
+    void castSpell(int n, Character opponent) {
+        if (n == 1) this.castFirstSpell(opponent);
+        else if (n == 2) this.castSecondSpell(opponent);
     }
 }
