@@ -46,17 +46,16 @@ import java.util.Scanner;
 public class ANS {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
-
         Anduin anduin = new Anduin();
         Uther uther = new Uther();
         int turn = 1;
 
+        int n = scanner.nextInt(); // 獲取欲進行回合數
         for (int i = 0; i < n; i++) {
             System.out.println("Turn " + turn + ":");
-            int m = scanner.nextInt();
+            int m = scanner.nextInt(); // 獲取當前回合欲施放法術數
             for (int j = 0; j < m; j++) {
-                int s = scanner.nextInt();
+                int s = scanner.nextInt(); // 獲取欲施放的法術編號
                 if (turn % 2 == 1) anduin.castSpell(s, uther);
                 else uther.castSpell(s, anduin);
                 if (anduin.hp <= 0 || uther.hp <= 0) {

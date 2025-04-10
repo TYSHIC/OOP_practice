@@ -92,7 +92,7 @@ abstract class Game {
             player.drawCards(1);
 
             while (true) {
-                // 尋找手牌中可打出的法力水晶最高的卡牌，若法力值相同時使打出靠左方的卡牌
+                // 尋找手牌中可打出的法力值最高的卡牌，若法力值相同時使打出靠左方的卡牌
                 Card nextCard = null;
                 int nextCardIndex = -1;
                 for (int i = 0; i < player.hand.getCount(); i++) {

@@ -251,7 +251,7 @@ class Player {
     }
 }
 
-// 卡牌類別
+// 卡牌抽象類別
 abstract class Card {
     final int cost;
     final int id;
