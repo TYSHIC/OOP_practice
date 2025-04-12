@@ -14,6 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/02_dynamic_member/02_dynamic_member.iml" filepath="$PROJECT_DIR$/02_dynamic_member/02_dynamic_member.iml" />
       <module fileurl="file://$PROJECT_DIR$/02_dynamic_member/02_exam_ranking/02_exam_ranking.iml" filepath="$PROJECT_DIR$/02_dynamic_member/02_exam_ranking/02_exam_ranking.iml" />
       <module fileurl="file://$PROJECT_DIR$/01_static_member/02_square_number/02_square_number.iml" filepath="$PROJECT_DIR$/01_static_member/02_square_number/02_square_number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_polymorphism/03_card_game_2/03_card_game_2.iml" filepath="$PROJECT_DIR$/03_polymorphism/03_card_game_2/03_card_game_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_polymorphism/03_card_game_2/03_card_game_2_ans/03_card_game_2_ans.iml" filepath="$PROJECT_DIR$/03_polymorphism/03_card_game_2/03_card_game_2_ans/03_card_game_2_ans.iml" />
       <module fileurl="file://$PROJECT_DIR$/01_static_member/03_climb_stairs/03_climb_stairs.iml" filepath="$PROJECT_DIR$/01_static_member/03_climb_stairs/03_climb_stairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/03_polymorphism/03_polymorphism.iml" filepath="$PROJECT_DIR$/03_polymorphism/03_polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/01_static_member/04_sum/04_sum.iml" filepath="$PROJECT_DIR$/01_static_member/04_sum/04_sum.iml" />
